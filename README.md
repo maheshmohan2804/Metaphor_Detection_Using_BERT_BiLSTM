@@ -1,4 +1,3 @@
-# Metaphor_Detection_Using_BERT_Bi_LSTM
 # Metaphor Detection Using BERT Embedding and Bi-directional LSTM
 In this notebook, we experiment with statistical models and deep learning models to help classify text into Metaphors and Non-Metaphors.
 1) We use statistical models such as Logistic regression and XG boost for the task
